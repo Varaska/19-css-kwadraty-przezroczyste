@@ -1,0 +1,30 @@
+#container {
+	background-color: #f5f5dd;
+	width: 300px;
+	height: 450px;
+	padding: 20px;
+}
+
+.square {
+	background-color: rgba(0, 0, 0, 0.7);
+	width: 100px;
+	height: 100px;
+	margin: 10px auto;
+}
+ /* kropka(.) to oznacz klasę, #-oznacza ID */
+
+ .box1 {
+    background-color: rgba(0, 0, 0, 1);
+ }
+
+ .box2 {
+    background-color: rgba(0, 0, 0, 0.8);
+ }
+
+ .box3 {
+    background-color: rgba(0, 0, 0, 0.5);
+ }
+
+ .box4 {
+    background-color: rgba(0, 0, 0, 0.2);
+ }
